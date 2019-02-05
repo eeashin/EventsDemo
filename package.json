@@ -1,0 +1,19 @@
+{
+  "name": "APIOpsDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Digia Oyj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "isomorphic-fetch": "^2.2.1",
+    "parse-json": "^4.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "yargs": "^12.0.5"
+  }
+}
